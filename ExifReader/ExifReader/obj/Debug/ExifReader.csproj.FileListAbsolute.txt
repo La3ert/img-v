@@ -1,0 +1,13 @@
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\bin\Debug\ExifReader.exe.config
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\bin\Debug\ExifReader.exe
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\bin\Debug\ExifReader.pdb
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\bin\Debug\DemoApp.exe
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\bin\Debug\DemoApp.pdb
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\obj\Debug\ExifReader.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\obj\Debug\ExifReader.Properties.Resources.resources
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\obj\Debug\ExifReader.csproj.GenerateResource.cache
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\obj\Debug\ExifReader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\obj\Debug\ExifReader.csproj.CopyComplete
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\obj\Debug\ExifReader.exe
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\obj\Debug\ExifReader.pdb
+C:\Users\Admin\RiderProjects\ExifReader\ExifReader\obj\Debug\ExifReader.Form1.resources
